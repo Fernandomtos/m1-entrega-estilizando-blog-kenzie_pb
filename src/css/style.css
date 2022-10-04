@@ -6,7 +6,7 @@ body{
     text-align: center;
     font-family: 'Roboto', sans-serif;
     height: 100vh;
-    background-image: url("/src/img/hd-wallpaper-7437204_1920.jpg");
+    background-image: url("../img/hd-wallpaper-7437204_1920.jpg");
     margin-left: 200px;
     margin-right: 200px;
 }
